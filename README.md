@@ -1,9 +1,9 @@
-# A Simple Counter On Render
+# A Simple Counter App
 
 
 
-## About
-
+## View the app live at:
+https://week-6-simple-counter.vercel.app/ 
 
 
 ## Other features
