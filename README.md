@@ -2,7 +2,9 @@
 
 
 ## Here's a quick gif
-![Demo](https://user-images.githubusercontent.com/112668448/256402941-86b255dd-05ff-4e40-9f28-77ce63451ed5.gif)
+<p align="center">
+    ![Demo](https://user-images.githubusercontent.com/112668448/256402941-86b255dd-05ff-4e40-9f28-77ce63451ed5.gif)
+</p>
 
 ## View the app live at
 https://week-6-simple-counter.vercel.app/ 
