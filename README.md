@@ -2,7 +2,7 @@
 
 
 
-## View the app live at:
+## View the app live at
 https://week-6-simple-counter.vercel.app/ 
 
 
@@ -17,4 +17,4 @@ https://week-6-simple-counter.vercel.app/
 ### Thanks and Contributions
 
 Color Palette thanks to SheCodes Coding Tools
-- (https://palettes.shecodes.io/palettes/359)
+- https://palettes.shecodes.io/palettes/359
