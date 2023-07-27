@@ -9,6 +9,7 @@ const Home = ({counter}) => {
 	return (
 		<div className="wrapper text-center">
 			<h1>{PropTypes.counter}</h1>
+			<div className="fauxMargin"></div>
 			<SimpleCounter 
 				hundredThousandsDigit={calculateSeconds(counter, 100000)}
 				tenThousandsDigit={calculateSeconds(counter, 10000)}

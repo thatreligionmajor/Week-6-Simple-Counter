@@ -1,11 +1,15 @@
 html, body {
     height:100%;
-    background-color: #fdffcd;
+    background-color: #fdffcd !important;
 }
 
 .counterDisplay {
     text-align: center;
-    margin: 100px auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    min-height: 100vh;
 }
 
 .counterDisplay div {
@@ -18,7 +22,6 @@ html, body {
     margin-left: 5px;
     margin-right: 5px;
 }
-
 
 .bi-stopwatch {
     background-color: rgba(0,0,0,0);
