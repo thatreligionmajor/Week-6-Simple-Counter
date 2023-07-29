@@ -1,14 +1,14 @@
 # A Simple Counter App
 
 
-## Here's a quick gif
+## Here's a Preview:
 ![Demo](https://user-images.githubusercontent.com/112668448/256402941-86b255dd-05ff-4e40-9f28-77ce63451ed5.gif)
 
-## View the app live at
+## View the App Live At:
 https://week-6-simple-counter.vercel.app/ 
 
 
-## Other features
+## Other Features:
 
 - Automatic Code Formatting: Use of [Prettier](https://prettier.io/) for automatic code indentation and formatting.
 - Error reporting: Use of [eslint](https://eslint.org/) for better error reporting.
@@ -16,7 +16,7 @@ https://week-6-simple-counter.vercel.app/
 - One-command publish of the code to GitHub pages with `npm run deploy:github`.
 - Babel 7 (really fast).
 
-### Thanks and Contributions
+### Thanks and Contributions:
 
 Color Palette thanks to SheCodes Coding Tools
 - https://palettes.shecodes.io/palettes/359
